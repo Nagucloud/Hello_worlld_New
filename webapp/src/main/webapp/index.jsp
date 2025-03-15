@@ -12,7 +12,7 @@
             margin: 50px;
         }
         h1 {
-            color: #333;
+            color: #Blue;
         }
     </style>
 </head>
